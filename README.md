@@ -14,7 +14,7 @@ This project demonstrates how to set up a virtual machine using Oracle VirtualBo
 
 - VirtualBox (v7.x)
 - Ubuntu 22.04 LTS ISO
-- Windows 10 as Host OS
+- Windows 11 as Host OS
 
 ## 📌 Purpose
 
@@ -22,7 +22,7 @@ This was submitted as part of an academic assignment to demonstrate virtualizati
 
 ## 📸 Preview
 
-![VM Screenshot](screenshots/step2_create_vm.png)
+Check Document
 
 ---
 
